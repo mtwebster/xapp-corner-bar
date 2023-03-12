@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-12 10:49-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/mate-xapp-corner-bar.c:207 src/xfce4-xapp-corner-bar-plugin.c:257
+#: data/xfce4-xapp-corner-bar-plugin.desktop.in:4
+msgid "XApp CornerBar Plugin"
+msgstr ""
+
+#: src/mate-xapp-corner-bar.c:212 src/xfce4-xapp-corner-bar-plugin.c:262
+#: data/org.x.MateXAppCornerBarApplet.mate-panel-applet.in.in:7
+#: data/org.x.MateXAppCornerBarApplet.mate-panel-applet.in.in:11
+#: data/xfce4-xapp-corner-bar-plugin.desktop.in:5
+msgid ""
+"This widget shows the desktop when clicked, or can peek at the desktop when "
+"hovered."
+msgstr ""
+
+#: src/mate-xapp-corner-bar.c:279 src/xfce4-xapp-corner-bar-plugin.c:273
+msgid "About"
+msgstr ""
+
+#: src/mate-xapp-corner-bar.c:287
+msgid "Preferences"
+msgstr ""
+
+#: data/org.x.MateXAppCornerBarApplet.mate-panel-applet.in.in:6
+msgid "XApp CornerBar Applet Factory"
+msgstr ""
+
+#: data/org.x.MateXAppCornerBarApplet.mate-panel-applet.in.in:10
+msgid "XApp CornerBar Applet"
+msgstr ""

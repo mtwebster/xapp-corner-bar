@@ -1,0 +1,9 @@
+#!/bin/bash
+
+xgettext --language=C --add-comments --keyword=_ --keyword=N_ --output=xapp-corner-bar.pot src/*.c
+xgettext --language=Desktop --join-existing --add-comments \
+          -k --keyword=Name --keyword=Description --output=xapp-corner-bar.pot \
+          data/org.x.MateXAppCornerBarApplet.mate-panel-applet.in.in
+xgettext --language=Desktop --join-existing --add-comments \
+          -k --keyword=Name --keyword=Comment --output=xapp-corner-bar.pot \
+          data/xfce4-xapp-corner-bar-plugin.desktop.in

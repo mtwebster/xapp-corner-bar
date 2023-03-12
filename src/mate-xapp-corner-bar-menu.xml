@@ -1,0 +1,2 @@
+<menuitem name="Mate XApp Corner Bar About Item" action="ShowCornerBarAbout"/>
+<menuitem name="Mate XApp Corner Bar Prefs Item" action="ShowCornerBarPrefs"/>

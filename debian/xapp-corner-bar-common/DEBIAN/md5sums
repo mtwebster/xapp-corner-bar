@@ -1,0 +1,8 @@
+7e48c17c26fcb75dad8ef2e3a85d8cf7  usr/bin/xapp-corner-bar-prefs
+547711169f9415b2df8d9ef6dafce6ae  usr/share/dbus-1/services/org.mate.panel.applet.MateXAppCornerBarAppletFactory.service
+7e78c4998a6900e7c72dfe8a2c89374a  usr/share/doc/xapp-corner-bar-common/changelog.gz
+48bd3b7161a8d2dc355c3096d0bddeda  usr/share/doc/xapp-corner-bar-common/copyright
+967166798a09a7078a7529633becfe39  usr/share/glib-2.0/schemas/org.x.apps.corner-bar.gschema.xml
+4c8c3be662b049811219a74ba8b2b730  usr/share/icons/hicolor/scalable/apps/xapp-corner-bar.svg
+fca5eff4973ad3b356b1e5cc6294e3bf  usr/share/mate-panel/applets/org.x.MateXAppCornerBarApplet.mate-panel-applet
+cd7f00f6b23b97034679aff37aee6871  usr/share/xfce4/panel/plugins/xfce4-xapp-corner-bar-plugin.desktop

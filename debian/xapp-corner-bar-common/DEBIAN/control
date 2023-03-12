@@ -1,0 +1,10 @@
+Package: xapp-corner-bar-common
+Source: xapp-corner-bar
+Version: 1.0.0
+Architecture: all
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Installed-Size: 31
+Depends: dconf-gsettings-backend | gsettings-backend
+Section: x11
+Priority: optional
+Description: CornerBar panel applet for MATE

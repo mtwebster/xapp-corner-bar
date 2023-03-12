@@ -1,0 +1,13 @@
+[Applet Factory]
+Id=MateXAppCornerBarAppletFactory
+InProcess=false
+Location=@install_dir@/mate-xapp-corner-bar
+Name=XApp CornerBar Applet Factory
+Description=This widget shows the desktop when clicked, or can peek at the desktop when hovered.
+
+[MateXAppCornerBarApplet]
+Name=XApp CornerBar Applet
+Description=This widget shows the desktop when clicked, or can peek at the desktop when hovered.
+Icon=xapp-corner-bar
+MateComponentId=OAFIID:MATE_MateXAppCornerBarApplet;
+

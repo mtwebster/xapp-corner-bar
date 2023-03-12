@@ -1,0 +1,13 @@
+.mate-xapp-corner-bar {
+  min-width: 8px;
+  min-height: 8px;
+  margin: 0;
+  padding: 0;
+  border: .3em solid transparent;
+  background-clip: padding-box;
+  background-color: rgba(255,255,255, 0.12);
+
+  &:hover, &active {
+    background-color: rgba(255,255,255, 0.22);
+  }
+}

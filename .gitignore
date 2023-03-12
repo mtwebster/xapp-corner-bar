@@ -1,0 +1,10 @@
+debian/mate-xapp-corner-bar
+debian/xapp-corner-bar-dbg
+
+obj-x86_64-linux-gnu
+debian/tmp/
+debian/*.debhelper
+debian/*.log
+debian/*.substvars
+debian/files
+debian/debhelper-build-stamp

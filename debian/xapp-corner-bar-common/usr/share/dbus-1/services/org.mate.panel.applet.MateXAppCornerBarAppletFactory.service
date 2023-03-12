@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.mate.panel.applet.MateXAppCornerBarAppletFactory
+Exec=/usr/lib/x86_64-linux-gnu/xapps/mate-xapp-corner-bar
