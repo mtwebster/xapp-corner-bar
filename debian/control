@@ -21,12 +21,12 @@ Description: CornerBar panel applet for MATE
 Package: xfce4-xapp-corner-bar
 Architecture: any
 Depends: xfce4-panel (>= 4.12), ${misc:Depends}, ${shlibs:Depends}
-Description: CornerBar panel applet for MATE
+Description: CornerBar panel plugin for Xfce4
 
 Package: xapp-corner-bar-common
 Architecture: all
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: CornerBar panel applet for MATE
+Description: Common files for mate/xfce4-xapp-corner-bar
 
 Package: xapp-corner-bar-dbg
 Section: debug

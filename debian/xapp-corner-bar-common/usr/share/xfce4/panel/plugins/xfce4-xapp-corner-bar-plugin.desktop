@@ -1,8 +1,0 @@
-[Xfce Panel]
-Type=X-XFCE-PanelPlugin
-Name=XApp CornerBar Plugin
-Comment=This widget shows the desktop when clicked, or can peek at the desktop when hovered.
-Icon=xapp-corner-bar
-X-XFCE-Module=xfce4-xapp-corner-bar-plugin
-X-XFCE-Internal=FALSE
-X-XFCE-API=2.0
